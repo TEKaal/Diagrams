@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-07T11:12:25.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Ii7PS8YHUG8Yrszn1J1z" version="23.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-07T11:37:11.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="qVX3xdsOx9F4hCTnJKAn" version="23.1.1" type="github" pages="2">
   <diagram name="Chapters" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="3684" dy="2870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -270,15 +270,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oaU1He6_CLvsL4cnX-EE-1" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#666666;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="260" width="970" height="540" as="geometry" />
+          <mxGeometry x="-50" y="260" width="970" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="oaU1He6_CLvsL4cnX-EE-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="oaU1He6_CLvsL4cnX-EE-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700.3333333333335" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oaU1He6_CLvsL4cnX-EE-2" value="Fuel cell EV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="oaU1He6_CLvsL4cnX-EE-2" value="Fuel cell" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oaU1He6_CLvsL4cnX-EE-3" value="PV power" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="310" width="120" height="60" as="geometry" />
@@ -380,8 +375,13 @@
         <mxCell id="oaU1He6_CLvsL4cnX-EE-92" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;jumpStyle=arc;" edge="1" parent="1" source="oaU1He6_CLvsL4cnX-EE-55" target="oaU1He6_CLvsL4cnX-EE-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oaU1He6_CLvsL4cnX-EE-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;jumpStyle=arc;" edge="1" parent="1" source="oaU1He6_CLvsL4cnX-EE-55" target="oaU1He6_CLvsL4cnX-EE-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="oaU1He6_CLvsL4cnX-EE-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oaU1He6_CLvsL4cnX-EE-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="780" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="oaU1He6_CLvsL4cnX-EE-55" value="Hydrogen Utility Grid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="510" width="120" height="60" as="geometry" />
@@ -395,14 +395,60 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oaU1He6_CLvsL4cnX-EE-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oaU1He6_CLvsL4cnX-EE-44" target="oaU1He6_CLvsL4cnX-EE-44">
+        <mxCell id="oaU1He6_CLvsL4cnX-EE-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="oaU1He6_CLvsL4cnX-EE-44" target="oaU1He6_CLvsL4cnX-EE-102">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="350" y="760" />
-              <mxPoint x="270" y="760" />
-              <mxPoint x="270" y="710" />
+              <mxPoint x="350" y="760" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oaU1He6_CLvsL4cnX-EE-101" value="Microgrid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="860" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oaU1He6_CLvsL4cnX-EE-102" value="Energy management system" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oaU1He6_CLvsL4cnX-EE-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="oaU1He6_CLvsL4cnX-EE-102" target="oaU1He6_CLvsL4cnX-EE-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="830" />
+              <mxPoint x="250" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oaU1He6_CLvsL4cnX-EE-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="oaU1He6_CLvsL4cnX-EE-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="780" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="450" y="780" />
+              <mxPoint x="450" y="725" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oaU1He6_CLvsL4cnX-EE-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="oaU1He6_CLvsL4cnX-EE-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oaU1He6_CLvsL4cnX-EE-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="oaU1He6_CLvsL4cnX-EE-107">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oaU1He6_CLvsL4cnX-EE-107" value="EV Fuell cell" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="845" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oaU1He6_CLvsL4cnX-EE-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="oaU1He6_CLvsL4cnX-EE-112" target="oaU1He6_CLvsL4cnX-EE-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="520" />
+              <mxPoint x="190" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oaU1He6_CLvsL4cnX-EE-112" value="Geothermal power" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
