@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-14T10:11:22.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="kstqinaADiPPzYC5eKbd" version="24.0.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-14T10:53:13.364Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="0LrR0aBLE0IvqbzLPBph" version="24.0.5" type="github" pages="7">
   <diagram name="Chapters" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1386" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -265,7 +265,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZyJ0kRKOSs01C274n4K2" name="Model architecture">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2698" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -276,7 +276,7 @@
           <mxGeometry x="640" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oaU1He6_CLvsL4cnX-EE-3" value="PV power" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oaU1He6_CLvsL4cnX-EE-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="oaU1He6_CLvsL4cnX-EE-43" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -320,18 +320,15 @@
         <mxCell id="oaU1He6_CLvsL4cnX-EE-47" value="Heat Pumps" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oaU1He6_CLvsL4cnX-EE-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="oaU1He6_CLvsL4cnX-EE-48" target="oaU1He6_CLvsL4cnX-EE-46" edge="1">
+        <mxCell id="oaU1He6_CLvsL4cnX-EE-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" target="oaU1He6_CLvsL4cnX-EE-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="430" />
-              <mxPoint x="190" y="380" />
+              <mxPoint x="140" y="380" />
               <mxPoint x="500" y="380" />
             </Array>
+            <mxPoint x="140" y="380" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="oaU1He6_CLvsL4cnX-EE-48" value="Wind turbine power" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oaU1He6_CLvsL4cnX-EE-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="oaU1He6_CLvsL4cnX-EE-49" target="oaU1He6_CLvsL4cnX-EE-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -347,7 +344,7 @@
           <mxGeometry x="440" y="610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oaU1He6_CLvsL4cnX-EE-51" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Thermal and electrical power&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" parent="1" vertex="1">
-          <mxGeometry x="-300" y="120" width="140" height="150" as="geometry" />
+          <mxGeometry x="-320" y="90" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="oaU1He6_CLvsL4cnX-EE-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oaU1He6_CLvsL4cnX-EE-49" target="oaU1He6_CLvsL4cnX-EE-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -370,7 +367,7 @@
         </mxCell>
         <mxCell id="oaU1He6_CLvsL4cnX-EE-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="oaU1He6_CLvsL4cnX-EE-54" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="340" as="targetPoint" />
+            <mxPoint x="560" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oaU1He6_CLvsL4cnX-EE-54" value="Batteries" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -390,13 +387,12 @@
         <mxCell id="oaU1He6_CLvsL4cnX-EE-55" value="Hydrogen Utility Grid" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oaU1He6_CLvsL4cnX-EE-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="oaU1He6_CLvsL4cnX-EE-3" target="oaU1He6_CLvsL4cnX-EE-47" edge="1">
+        <mxCell id="oaU1He6_CLvsL4cnX-EE-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" target="oaU1He6_CLvsL4cnX-EE-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="190" y="340" />
-              <mxPoint x="190" y="380" />
               <mxPoint x="350" y="380" />
             </Array>
+            <mxPoint x="350" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oaU1He6_CLvsL4cnX-EE-101" value="Microgrid and EMS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontColor=#999999;" parent="1" vertex="1">
@@ -427,13 +423,13 @@
         <mxCell id="oaU1He6_CLvsL4cnX-EE-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="oaU1He6_CLvsL4cnX-EE-112" target="oaU1He6_CLvsL4cnX-EE-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="190" y="520" />
+              <mxPoint x="190" y="480" />
               <mxPoint x="190" y="695" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oaU1He6_CLvsL4cnX-EE-112" value="Geothermal power" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oaU1He6_CLvsL4cnX-EE-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="oaU1He6_CLvsL4cnX-EE-44" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -859,7 +855,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4OyfZ88Gm82g_GW0Sk8b" name="Scenarios">
-    <mxGraphModel dx="2503" dy="1754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
