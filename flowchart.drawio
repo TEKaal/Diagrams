@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T10:58:17.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="GcL2tbupJsQMhMVYj55p" version="24.0.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-27T11:00:51.909Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="72yhSZpLgLkMv968Ohu-" version="24.0.7" type="github" pages="7">
   <diagram name="Chapters" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1386" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -558,14 +558,14 @@
         <mxCell id="oaU1He6_CLvsL4cnX-EE-44" value="Commercial and Residential loads" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oaU1He6_CLvsL4cnX-EE-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;jumpStyle=arc;" parent="1" source="oaU1He6_CLvsL4cnX-EE-46" target="oaU1He6_CLvsL4cnX-EE-49" edge="1">
+        <mxCell id="oaU1He6_CLvsL4cnX-EE-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;jumpStyle=arc;" parent="1" source="oaU1He6_CLvsL4cnX-EE-46" target="oaU1He6_CLvsL4cnX-EE-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="phPMpbeukmOMNEJWd7Cg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="oaU1He6_CLvsL4cnX-EE-46" target="oaU1He6_CLvsL4cnX-EE-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oaU1He6_CLvsL4cnX-EE-46" value="Elektrolyzer &amp;amp; Storage" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="440" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oaU1He6_CLvsL4cnX-EE-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="oaU1He6_CLvsL4cnX-EE-47" target="oaU1He6_CLvsL4cnX-EE-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -579,7 +579,7 @@
             <Array as="points">
               <mxPoint x="190" y="440" />
               <mxPoint x="190" y="380" />
-              <mxPoint x="500" y="380" />
+              <mxPoint x="530" y="380" />
             </Array>
             <mxPoint x="140" y="380" as="sourcePoint" />
           </mxGeometry>
@@ -932,6 +932,16 @@
         </mxCell>
         <mxCell id="phPMpbeukmOMNEJWd7Cg-56" value="Wind power" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="phPMpbeukmOMNEJWd7Cg-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;jumpStyle=arc;" edge="1" parent="1" target="oaU1He6_CLvsL4cnX-EE-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="580" />
+              <mxPoint x="470" y="580" />
+            </Array>
+            <mxPoint x="440" y="380" as="sourcePoint" />
+            <mxPoint x="360" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
