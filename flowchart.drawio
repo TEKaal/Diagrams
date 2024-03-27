@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T11:03:41.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="Mvp60tiRuPl6zkEqLW62" version="24.0.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-27T11:05:10.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="Bp7KfBeOmERtEThwokV4" version="24.0.7" type="github" pages="7">
   <diagram name="Chapters" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1386" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -558,12 +558,12 @@
         <mxCell id="oaU1He6_CLvsL4cnX-EE-44" value="Commercial and Residential loads" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oaU1He6_CLvsL4cnX-EE-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;jumpStyle=arc;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="oaU1He6_CLvsL4cnX-EE-46" target="oaU1He6_CLvsL4cnX-EE-49" edge="1">
+        <mxCell id="oaU1He6_CLvsL4cnX-EE-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.625;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;jumpStyle=arc;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="oaU1He6_CLvsL4cnX-EE-46" target="oaU1He6_CLvsL4cnX-EE-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="phPMpbeukmOMNEJWd7Cg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="oaU1He6_CLvsL4cnX-EE-46" target="oaU1He6_CLvsL4cnX-EE-47">
+        <mxCell id="phPMpbeukmOMNEJWd7Cg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="oaU1He6_CLvsL4cnX-EE-46" target="oaU1He6_CLvsL4cnX-EE-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oaU1He6_CLvsL4cnX-EE-46" value="Elektrolyzer &amp;amp; Storage" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
